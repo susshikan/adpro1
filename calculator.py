@@ -11,7 +11,7 @@ class Calculator:
         return add(a, b)
 
     def subtract(self, a, b):
-        return subtract(a, b)
+        return a-b
 
     def multiply(self, a, b):
         return multiply(a, b)
